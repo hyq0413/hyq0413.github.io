@@ -32,3 +32,11 @@ portrait_url: /assets/images/badges/mypic.jpg
 #portrait_caption: >-
 #  Photo
 
+
+education:
+- name: Tongji University
+  logo: /assets/images/badges/tongji.png
+  position: >- 
+    ‌School of Computer Science and Technology <br/>
+    Ph.D. Student
+  date: Mar. 2017 - Jun. 2021
