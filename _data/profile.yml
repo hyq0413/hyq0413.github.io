@@ -53,8 +53,8 @@ education:
   date: Sep. 2019 - Jul. 2021
 
 
- experience:
- - name: Tsinghua University
-   logo: /assets/images/badges/thu.png
-   position: Postdoc
-   date: Sep. 2021 - Feb. 2024
+awards:
+- name: Liaoning Young Elite Scientists Sponsorship Program
+  date: 2025
+- name: ACM Dalian "Rising Star" Award
+  date: 2024
