@@ -32,33 +32,3 @@ portrait_url: /assets/images/badges/mypic.jpg
 #portrait_caption: >-
 #  Photo
 
-education:
-- name: Tongji University
-  logo: /assets/images/badges/tongji.png
-  position: >- 
-    ‌School of Computer Science and Technology <br/>
-    Ph.D. Student
-  date: Mar. 2017 - Jun. 2021
-- name: Tongji University
-  logo: /assets/images/badges/tongji.png
-  position: >- 
-    ‌School of Computer Science and Technology <br/>
-    Master Student
-  date: Sep. 2015 - Mar. 2017
-- name: Harbin Engineering University
-  logo: /assets/images/badges/heu.jpg
-  position: >- 
-    B.S. in College of Computer Science and Technology
-  date: Sep. 2019 - Jul. 2021
-
- experience:
- - name: Tsinghua University
-   logo: /assets/images/badges/thu.png
-   position: Postdoc
-   date: Sep. 2021 - Feb. 2024
-
-awards:
-- name: Liaoning Young Elite Scientists Sponsorship Program
-  date: 2025
-- name: ACM Dalian "Rising Star" Award
-  date: 2024
