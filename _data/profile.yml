@@ -54,7 +54,13 @@ education:
 
 
 awards:
+- name: Award Name 2
+  date: 2024
+- name: Award Name 1 
+  date: 2021
+- name: A quick brown fox jumps over the lazy dog and runs away award
+  date: 2021
 - name: Liaoning Young Elite Scientists Sponsorship Program
   date: 2025
-- name: ACM Dalian "Rising Star" Award
+- name: ACM Dalian Rising Star Award
   date: 2024
