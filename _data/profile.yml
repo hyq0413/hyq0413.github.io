@@ -51,3 +51,10 @@ education:
   position: >- 
     B.S. in College of Computer Science and Technology
   date: Sep. 2019 - Jul. 2021
+
+
+ experience:
+ - name: Tsinghua University
+   logo: /assets/images/badges/thu.png
+   position: Postdoc
+   date: Sep. 2021 - Feb. 2024
