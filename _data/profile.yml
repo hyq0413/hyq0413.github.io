@@ -34,6 +34,10 @@ portrait_url: /assets/images/badges/mypic.jpg
 
 
 education:
+- name: Tsinghua University
+   logo: /assets/images/badges/thu.png
+   position: Postdoc
+   date: Sep. 2021 - Feb. 2024
 - name: Tongji University
   logo: /assets/images/badges/tongji.png
   position: >- 
@@ -52,16 +56,9 @@ education:
     B.S. in College of Computer Science and Technology
   date: Sep. 2019 - Jul. 2021
 
-experience:
-- name: Tsinghua University
-   logo: /assets/images/badges/thu.png
-   position: Postdoc
-   date: Sep. 2021 - Feb. 2024
 
 
 awards:
-- name: Award Name 2
-  date: 2024
 - name: Liaoning Young Elite Scientists Sponsorship Program
   date: 2025
 - name: ACM Dalian Rising Star Award
