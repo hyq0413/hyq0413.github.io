@@ -33,13 +33,14 @@ portrait_url: /assets/images/badges/mypic.jpg
 #  Photo
 
 
-education:
+experience:
 - name: Tsinghua University
   logo: /assets/images/badges/thu.png
   position: >- 
     Department of Automation <br/>
     Postdoc
   date: Sep. 2021 - Feb. 2024
+education:
 - name: Tongji University
   logo: /assets/images/badges/tongji.png
   position: >- 
