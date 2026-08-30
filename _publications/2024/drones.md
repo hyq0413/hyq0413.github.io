@@ -1,4 +1,3 @@
-
 ---
 title:          "Event-Assisted Object Tracking on High-Speed Drones in Harsh Illumination Environment"
 #date:           2024-05-12 00:01:00 +0800
@@ -17,7 +16,7 @@ authors:
   - Heng Luan
   - Xiaohang Yu
   - Jinli Suo
-links:
+#links:
   #Code: https://github.com/luost26/academic-homepage
   #Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
