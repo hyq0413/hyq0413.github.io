@@ -4,7 +4,7 @@ width: 4
 date: 2023-01-12 00:01:00 +0800
 ---
 <div>
-  <img src="/assets/images/photos/Shuxian.jpg">
+  <img src="/assets/images/photos/shuxian.jpg">
   <div class="card-body">
     <h5 class="Shuxian Zhao"></h5>
     <p class="card-text">
