@@ -4,7 +4,6 @@ width: 8
 date: 2020-01-12 00:01:00 +0800
 ---
 <div class="row no-gutters align-items-center">
-
   <div class="col-md-5 p-3">
     <img src="/assets/images/photos/weijian.jpg"
       class="w-100 rounded-xl"
@@ -25,5 +24,3 @@ date: 2020-01-12 00:01:00 +0800
   </small>
 </p>
   </div>
-
-</div>
