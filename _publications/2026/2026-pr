@@ -6,7 +6,7 @@ pub:            "Pattern Recognition"
 pub_date:       "2026"
 #abstract: >-
 #  UTA-Sign: Unsupervised Thermal Video Augmentation via Event-Assisted Traffic Signage Sketching.
-#cover:          /assets/images/covers/cover1.jpg
+cover:          /assets/images/covers/UTASign.png
 authors:
   - Yuqi Han*
   - Songqian Zhang
@@ -15,6 +15,6 @@ authors:
   - Jiayu Yang
   - Jinli Suo
   - Qiang Zhang
-#links:
-#  Paper: https://www.cell.com
+links:
+  Paper: http://arxiv.org/abs/2508.20594
 ---
