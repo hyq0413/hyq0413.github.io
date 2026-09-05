@@ -10,7 +10,7 @@ date: 2020-01-12 00:01:00 +0800
       alt="Hongyang Huang">
   </div>
   <div class="col-md-7 p-3">
-    <h5 class="card-title">Weijian Su</h5>
+    <h5 class="card-title">Hongyang Huang</h5>
 <p class="card-text">
   Matser student from 2023<br>
   Working on collaborative perception.<br>
