@@ -1,6 +1,6 @@
 ---
 title:          "UTA-Sign: Unsupervised Thermal Video Augmentation via Event-Assisted Traffic Signage Sketching"
-#date:           2026-04-01 00:01:00 +0800
+date:           2026-04-01 00:01:00 +0800
 selected:       true
 pub:            "Pattern Recognition"
 pub_date:       "2026"
@@ -8,7 +8,7 @@ pub_date:       "2026"
 #  UTA-Sign: Unsupervised Thermal Video Augmentation via Event-Assisted Traffic Signage Sketching.
 cover:          /assets/images/covers/UTASign.png
 authors:
-  - Yuqi Han*
+  - Yuqi Han
   - Songqian Zhang
   - Weijian Su
   - Ke Li
