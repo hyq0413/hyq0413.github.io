@@ -1,1 +1,18 @@
-
+---
+title:          "Fast-Response Edge Caching Scheme for Graph Data"
+date:           2025-04-02 00:01:00 +0800
+selected:       true
+pub:            "IEEE Transactions on Networking"
+pub_date:       "2025"
+#abstract: >-
+#  FedMIF: Fast-Generalization Image Fusion via Task-Customized Nodes Federated Learning.
+cover:          /assets/images/covers/ToN.jpg
+authors:
+  - Pengfei Wang
+  - Shiqi Li
+  - Yuqi Han#
+  - Feiye Ye
+  - Qiang Zhang#
+links:
+  Paper: https://ieeexplore.ieee.org/document/10934066
+---
