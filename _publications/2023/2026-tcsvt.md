@@ -6,7 +6,7 @@ pub:            "IEEE Transactions on Circuits and Systems for Video Technology"
 pub_date:       "2026"
 #abstract: >-
 #  Seq-IF: Sequentially Consistent Infrared-Visible Video Fusion under Time-Varying Illumination for Perception Enhancement.
-#cover:          /assets/images/covers/cover1.jpg
+cover:          /assets/images/covers/SeqIF.png
 authors:
 - Yuqi Han*
 - Zhihui Zheng
@@ -15,6 +15,6 @@ authors:
 - Liang Zhang
 - Jinli Suo
 - Qiang Zhang
-#links:
-#  Paper: https://www.cell.com
+links:
+  Paper: https://ieeexplore.ieee.org/document/11417980
 ---
