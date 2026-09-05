@@ -1,6 +1,6 @@
 ---
 title:          "OPAL: Occlusion Pattern Aware Loss for Unsupervised Light Field Disparity Estimation"
-#date:           2024-05-12 00:01:00 +0800
+date:           2024-05-14 00:01:00 +0800
 selected:       True
 pub:            "IEEE Transactions on Pattern Analysis and Machine Intelligence"
 # pub_pre:        "Submitted to "
