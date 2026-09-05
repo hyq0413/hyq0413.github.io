@@ -6,7 +6,7 @@ date: 2023-01-12 00:01:00 +0800
 ---
 <div class="row no-gutters align-items-center">
   <div class="col-md-5 p-3">
-    <img src="/assets/images/photos/HuiUPD.jpg"
+    <img src="/assets/images/photos/HuiUPD.png"
       class="w-100 rounded-xl"
       alt="Hui Wang">
   </div>
