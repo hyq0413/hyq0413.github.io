@@ -1,6 +1,6 @@
 ---
 title:          "Seq-IF: Sequentially Consistent Infrared-Visible Video Fusion under Time-Varying Illumination for Perception Enhancement"
-#date:           2026-03-01 00:01:00 +0800
+date:           2026-05-01 00:01:00 +0800
 selected:       true
 pub:            "IEEE Transactions on Circuits and Systems for Video Technology"
 pub_date:       "2026"
@@ -8,7 +8,7 @@ pub_date:       "2026"
 #  Seq-IF: Sequentially Consistent Infrared-Visible Video Fusion under Time-Varying Illumination for Perception Enhancement.
 cover:          /assets/images/covers/SeqIF.png
 authors:
-- Yuqi Han*
+- Yuqi Han
 - Zhihui Zheng
 - Weijian Su
 - Mingkai Wei
