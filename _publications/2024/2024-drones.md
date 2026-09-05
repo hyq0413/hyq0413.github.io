@@ -17,6 +17,6 @@ authors:
   - Xiaohang Yu
   - Jinli Suo
 links:
-    URL: https://github.com/luost26/academic-homepage
+    Paper: https://www.mdpi.com/2504-446X/8/1/22
   #Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
