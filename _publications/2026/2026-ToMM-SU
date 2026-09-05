@@ -1,1 +1,20 @@
-
+---
+title:          "DAFormer: Enhancing Infrared-Visible UAV Perception via Degradation Aware Mixture-of-Experts Model"
+date:           2026-09-01 00:01:00 +0800
+selected:       false
+pub:            "ACM Transactions on Multimedia Computing, Communications, and Applications"
+pub_date:       "2026"
+#abstract: >-
+#  UTA-Sign: Unsupervised Thermal Video Augmentation via Event-Assisted Traffic Signage Sketching.
+cover:          /assets/images/covers/DAFormer.png
+authors:
+  - Weijian Su
+  - Yuqi Han#
+  - Zhihui Zheng
+  - Zhenwei Wang
+  - Songqian Zhang
+  - Yongdong Huang
+  - Qiang Zhang#
+links:
+  Paper: https://dl.acm.org/doi/10.1145/3831592
+---
