@@ -1,6 +1,6 @@
 ---
 title:          "Event-Assisted Object Tracking on High-Speed Drones in Harsh Illumination Environment"
-#date:           2024-05-12 00:01:00 +0800
+date:           2024-05-12 00:01:00 +0800
 selected:       false
 pub:            "Drones"
 # pub_pre:        "Submitted to "
