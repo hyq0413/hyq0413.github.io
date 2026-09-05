@@ -21,8 +21,8 @@ date: 2023-01-12 00:01:00 +0800
     <h5 class="card-title">Weijian Su</h5>
 <p class="card-text">
   PhD Candidate From 2023<br>
-  Multi-modal image fusion, collaborative computing, computer vision.
-  Co-supervised by Prof. Qiang Zhang
+  Multi-modal image fusion, collaborative computing, computer vision.<br>
+  Co-supervised by Prof. Qiang Zhang.<br>
 </p>
 <p class="card-text mb-0">
   <small>
