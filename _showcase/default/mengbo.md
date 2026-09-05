@@ -4,7 +4,9 @@ width: 4
 date: 2026-01-12 00:01:00 +0800
 ---
 <div>
-  <img src="/assets/images/photos/mengbo.jpg">
+  <img src="/assets/images/photos/mengbo.jpg"
+    class="w-100 rounded-xl"
+     alt="Mengbo Fan">
   <div class="card-body">
     <h5 class="Mengbo Fan"></h5>
     <p class="card-text">
