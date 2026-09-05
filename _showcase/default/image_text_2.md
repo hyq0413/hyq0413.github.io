@@ -1,16 +1,16 @@
 ---
 show: true
 width: 5
-date: 2020-01-12 00:01:00 +0800
+date: 2023-01-12 00:01:00 +0800
 ---
 <div>
-  <img data-src="https://api.star-history.com/svg?repos=luost26/academic-homepage&type=Date" class="lazy w-100 rounded-xl-top" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
+  <img src="{{ '/assets/photos/weijian.jpg' }}">
   <div class="card-body">
-    <h5 class="card-title"Weijian Su</h5>
+    <h5 class="card-title"Weijian Su></h5>
     <p class="card-text">
       PhD Candidate From 2023
       Multi-modal image fusion, collaborative computing, computer vision.
     </p>
-    <p class="card-text"><small><a href="https://github.com/luost26/academic-homepage" target="_blank">Give a star!</a></small></p>
+    <p class="card-text"><small><a href="https://github.com/suweijian1996" target="_blank">Homepage</a></small></p>
   </div>
 </div>
