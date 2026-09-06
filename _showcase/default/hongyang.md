@@ -14,7 +14,7 @@ date: 2020-01-12 00:01:00 +0800
 <p class="card-text">
   Matser student from 2023<br>
   Working on collaborative perception.<br>
-  Co-supervised by Prof. Yaqing Hou.<br>
+  Co-supervised with Prof. Yaqing Hou.<br>
 </p>
   </div>
 
