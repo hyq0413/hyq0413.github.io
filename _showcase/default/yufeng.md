@@ -1,6 +1,6 @@
 ---
 show: true
-width: 4
+width: 3.5
 date: 2023-01-01 00:01:00 +0800
 ---
 <div>
