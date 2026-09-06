@@ -12,7 +12,7 @@ date: 2023-01-12 00:01:00 +0800
   <div class="col-md-7 p-3">
     <h5 class="card-title">Jiayu Yang</h5>
 <p class="card-text">
-  Master student From 2024<br>
+  Master student from 2024<br>
   Working on immersive multimedia representation and reconstruction.<br>
 </p>
   </div>
