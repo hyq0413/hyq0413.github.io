@@ -1,6 +1,6 @@
 ---
 show: true
-width: 5
+width: 3.5
 date: 2022-01-12 00:01:00 +0800
 ---
 <div class="row no-gutters align-items-center">
