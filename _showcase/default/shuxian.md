@@ -11,7 +11,7 @@ date: 2022-01-12 00:01:00 +0800
     <h5 class="Shuxian Zhao"></h5>
     <p class="card-text">
       Master student from 2027<br>
-      Rising star!<br>
+      The best is yet to come.<br>
     </p>
   </div>
 </div>
