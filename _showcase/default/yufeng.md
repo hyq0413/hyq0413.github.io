@@ -11,7 +11,7 @@ date: 2023-01-12 00:01:00 +0800
     <h5 class="Yufeng Liu"></h5>
     <p class="card-text">
       Master student from 2026<br>
-      Exploring perception under complex environment.<br>
+      Exploring 3D reconstruction under low-quality acquisition.<br>
     </p>
   </div>
 </div>
