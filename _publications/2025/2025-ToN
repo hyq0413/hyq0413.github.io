@@ -6,7 +6,7 @@ pub:            "IEEE Transactions on Networking"
 pub_date:       "2025"
 #abstract: >-
 #  FedMIF: Fast-Generalization Image Fusion via Task-Customized Nodes Federated Learning.
-cover:          /assets/images/covers/ToN.jpg
+cover:          /assets/images/covers/ToN.png
 authors:
   - Pengfei Wang
   - Shiqi Li
