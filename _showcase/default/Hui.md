@@ -14,5 +14,6 @@ date: 2022-01-12 00:01:00 +0800
 <p class="card-text">
   Master student from 2026<br>
   Working on advanced multi-modal fusion.<br>
+  Co-supervised with Prof. Qiang Zhang.<br>
 </p>
   </div>
