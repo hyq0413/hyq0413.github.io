@@ -8,7 +8,7 @@ date: 2022-01-12 00:01:00 +0800
     class="w-100 rounded-xl"
      alt="Mengbo Fan">
   <div class="card-body">
-    <h5 class="Mengbo Fan"></h5>
+    <h5 class="fw-bold">Mengbo Fan</h5>
     <p class="card-text">
       Master student from 2026<br>
       Exploring lightweight representation for VLM.<br>
