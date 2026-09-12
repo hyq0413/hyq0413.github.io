@@ -1,6 +1,6 @@
 ---
 show: true
-width: 5
+width: 6
 date: 2021-01-12 00:01:00 +0800
 ---
 <div class="row no-gutters align-items-center">
@@ -13,7 +13,8 @@ date: 2021-01-12 00:01:00 +0800
     <h5 class="card-title">Hongyang Huang</h5>
 <p class="card-text">
   Matser student from 2023<br>
-  Working on collaborative perception.<br>
+  Working on collaborative perception. <br>
+  Focusing on Key R&D Project. <br>
   Co-supervised with Prof. Yaqing Hou.<br>
 </p>
   </div>
