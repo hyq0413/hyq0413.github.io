@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Yuqi Han"
 
 positions:
-- name: Assistant Professor
+- name: Associate Professor
 - name: School of Computer Science and Technology
   logo: /assets/images/badges/DUT.png  # Logo is optional
 
@@ -22,7 +22,7 @@ orcid: 0000-0002-8097-1397
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am an Assistant Professor at the School of Computer Science, Dalian University of Technology.
+    I am an Associate Professor at the School of Computer Science and Technology, Dalian University of Technology.
   </p>
   <p>
      My research focuses on immersive visual intelligence, including 3D scene understanding, neural representations, and multimodal perception for next-generation VR/AR systems.
